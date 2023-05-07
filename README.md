@@ -8,7 +8,7 @@ Born in the USA and raised in Israel. Studied Computer Science at Bar Ilan Unive
 
 *   🌍  I'm based in Israel, Givat Shmuel
 *   ✉️  You can contact me at [jennieklein531@gmail.com](mailto:jennieklein531@gmail.com)
-*  
+* ⚡  I love to explore the outdoors and eat good food!
 ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
