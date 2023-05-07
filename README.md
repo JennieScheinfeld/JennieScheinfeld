@@ -7,7 +7,9 @@ Full Stack Developer
 Born in the USA and raised in Israel. Studied Computer Science at Bar Ilan University. My education has trained me to take on challenging projects and learn new concepts quickly and efficiently. A drive to challenge myself, push my own boundaries and an interest in new technologies has led me to a career in software development.
 
 *   🌍  I'm based in Israel, Givat Shmuel
-*   ✉️  You can contact me at [jennieklein531@gmail.com](mailto:jennieklein531@gmail.com)### Skills 
+*   ✉️  You can contact me at [jennieklein531@gmail.com](mailto:jennieklein531@gmail.com)
+*  
+### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
